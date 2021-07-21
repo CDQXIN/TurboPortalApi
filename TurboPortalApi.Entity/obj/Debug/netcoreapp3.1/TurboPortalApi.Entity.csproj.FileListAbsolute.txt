@@ -1,0 +1,8 @@
+E:\PortalSystem\TurboPortalApi\TurboPortalApi.Entity\bin\Debug\netcoreapp3.1\TurboPortalApi.Entity.deps.json
+E:\PortalSystem\TurboPortalApi\TurboPortalApi.Entity\bin\Debug\netcoreapp3.1\TurboPortalApi.Entity.dll
+E:\PortalSystem\TurboPortalApi\TurboPortalApi.Entity\bin\Debug\netcoreapp3.1\TurboPortalApi.Entity.pdb
+E:\PortalSystem\TurboPortalApi\TurboPortalApi.Entity\obj\Debug\netcoreapp3.1\TurboPortalApi.Entity.AssemblyInfoInputs.cache
+E:\PortalSystem\TurboPortalApi\TurboPortalApi.Entity\obj\Debug\netcoreapp3.1\TurboPortalApi.Entity.AssemblyInfo.cs
+E:\PortalSystem\TurboPortalApi\TurboPortalApi.Entity\obj\Debug\netcoreapp3.1\TurboPortalApi.Entity.csproj.CoreCompileInputs.cache
+E:\PortalSystem\TurboPortalApi\TurboPortalApi.Entity\obj\Debug\netcoreapp3.1\TurboPortalApi.Entity.dll
+E:\PortalSystem\TurboPortalApi\TurboPortalApi.Entity\obj\Debug\netcoreapp3.1\TurboPortalApi.Entity.pdb

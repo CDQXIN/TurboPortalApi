@@ -1,0 +1,9 @@
+E:\PortalSystem\TurboPortalApi\TurboPortalApi.Common\bin\Debug\netcoreapp3.1\TurboPortalApi.Common.deps.json
+E:\PortalSystem\TurboPortalApi\TurboPortalApi.Common\bin\Debug\netcoreapp3.1\TurboPortalApi.Common.dll
+E:\PortalSystem\TurboPortalApi\TurboPortalApi.Common\bin\Debug\netcoreapp3.1\TurboPortalApi.Common.pdb
+E:\PortalSystem\TurboPortalApi\TurboPortalApi.Common\obj\Debug\netcoreapp3.1\TurboPortalApi.Common.AssemblyInfoInputs.cache
+E:\PortalSystem\TurboPortalApi\TurboPortalApi.Common\obj\Debug\netcoreapp3.1\TurboPortalApi.Common.AssemblyInfo.cs
+E:\PortalSystem\TurboPortalApi\TurboPortalApi.Common\obj\Debug\netcoreapp3.1\TurboPortalApi.Common.csproj.CoreCompileInputs.cache
+E:\PortalSystem\TurboPortalApi\TurboPortalApi.Common\obj\Debug\netcoreapp3.1\TurboPortalApi.Common.dll
+E:\PortalSystem\TurboPortalApi\TurboPortalApi.Common\obj\Debug\netcoreapp3.1\TurboPortalApi.Common.pdb
+E:\PortalSystem\TurboPortalApi\TurboPortalApi.Common\obj\Debug\netcoreapp3.1\TurboPortalApi.Common.csprojAssemblyReference.cache

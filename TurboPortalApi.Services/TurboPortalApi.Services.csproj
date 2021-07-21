@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TurboPortalApi.Common\TurboPortalApi.Common.csproj" />
+    <ProjectReference Include="..\TurboPortalApi.Core\TurboPortalApi.Core.csproj" />
+    <ProjectReference Include="..\TurboPortalApi.Entity\TurboPortalApi.Entity.csproj" />
+  </ItemGroup>
+
+</Project>

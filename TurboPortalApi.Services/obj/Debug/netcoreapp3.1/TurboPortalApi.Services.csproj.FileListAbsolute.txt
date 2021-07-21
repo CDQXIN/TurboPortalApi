@@ -1,0 +1,16 @@
+E:\PortalSystem\TurboPortalApi\TurboPortalApi.Services\obj\Debug\netcoreapp3.1\TurboPortalApi.Services.csprojAssemblyReference.cache
+E:\PortalSystem\TurboPortalApi\TurboPortalApi.Services\obj\Debug\netcoreapp3.1\TurboPortalApi.Services.AssemblyInfoInputs.cache
+E:\PortalSystem\TurboPortalApi\TurboPortalApi.Services\obj\Debug\netcoreapp3.1\TurboPortalApi.Services.AssemblyInfo.cs
+E:\PortalSystem\TurboPortalApi\TurboPortalApi.Services\obj\Debug\netcoreapp3.1\TurboPortalApi.Services.csproj.CoreCompileInputs.cache
+E:\PortalSystem\TurboPortalApi\TurboPortalApi.Services\bin\Debug\netcoreapp3.1\TurboPortalApi.Services.deps.json
+E:\PortalSystem\TurboPortalApi\TurboPortalApi.Services\bin\Debug\netcoreapp3.1\TurboPortalApi.Services.dll
+E:\PortalSystem\TurboPortalApi\TurboPortalApi.Services\bin\Debug\netcoreapp3.1\TurboPortalApi.Services.pdb
+E:\PortalSystem\TurboPortalApi\TurboPortalApi.Services\bin\Debug\netcoreapp3.1\TurboPortalApi.Common.dll
+E:\PortalSystem\TurboPortalApi\TurboPortalApi.Services\bin\Debug\netcoreapp3.1\TurboPortalApi.Core.dll
+E:\PortalSystem\TurboPortalApi\TurboPortalApi.Services\bin\Debug\netcoreapp3.1\TurboPortalApi.Entity.dll
+E:\PortalSystem\TurboPortalApi\TurboPortalApi.Services\bin\Debug\netcoreapp3.1\TurboPortalApi.Common.pdb
+E:\PortalSystem\TurboPortalApi\TurboPortalApi.Services\bin\Debug\netcoreapp3.1\TurboPortalApi.Core.pdb
+E:\PortalSystem\TurboPortalApi\TurboPortalApi.Services\bin\Debug\netcoreapp3.1\TurboPortalApi.Entity.pdb
+E:\PortalSystem\TurboPortalApi\TurboPortalApi.Services\obj\Debug\netcoreapp3.1\TurboPortalApi.Services.csproj.CopyComplete
+E:\PortalSystem\TurboPortalApi\TurboPortalApi.Services\obj\Debug\netcoreapp3.1\TurboPortalApi.Services.dll
+E:\PortalSystem\TurboPortalApi\TurboPortalApi.Services\obj\Debug\netcoreapp3.1\TurboPortalApi.Services.pdb
